@@ -1,2 +1,2 @@
 # project
-This is foe the hackathon
+This is for the hackathon
